@@ -27,7 +27,7 @@
   
   
 ## 구조도
-
+![요리교실 구조](https://user-images.githubusercontent.com/51351974/71306450-e4d76c80-2423-11ea-8dd4-730f2e8aeaf3.jpg)
 
 ## UI
 ![1](https://user-images.githubusercontent.com/51351974/71305530-febf8200-2418-11ea-87a8-369a040b04c3.jpg)
